@@ -7,3 +7,6 @@ It's support MSSQL (T-SQL), Oracle (PL/SQL), MS Access, MySQL...
 
 License: New BSD License
 http://opensource.org/licenses/BSD-3-Clause
+
+Uses DevExpress:
+https://github.com/ArsenShnurkov/erdesigner/blob/master/ERDesigner/ERDesigner.csproj#L32-L38
